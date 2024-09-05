@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Esteban Castelblanco 👋
 
-<!--
-**Castelblanco/Castelblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+##### A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+    const castelblanco = {
+        languajes: ["Javascript", "TypeScript", "Python"],
+        frameworks: [
+            "React", "Angular", "Vue", "Nuxt", "Svelte",
+            "SvelteKit", "Phaser", "Tauri", "Electron", "React-Native",
+            "Expo", "Express", "Nestjs", "Vite", "ElysiaJs",
+            "Socket.io", "Flask"
+        ],
+        tools: ["Nodejs", "Bunjs", "Docker", "Kubernetes"],
+        databases: [
+            "MongoDB",
+            "Redis",
+            SQL: [
+                "Postgres",
+                "SQL Server",
+                "MySQL",
+            ]
+        ]
+    }
+```
+
+### You can find me:
+
+-   [Portafolio](https://castelblanco-portafolio.netlify.app)
+-   [Linkedin](https://linkedin.com/in/esteban-castelblanco)

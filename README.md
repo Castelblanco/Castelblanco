@@ -22,7 +22,8 @@
                 "SQL Server",
                 "MySQL",
             ]
-        ]
+        ],
+        cloud: ["Oracle Cloud", "Google Cloud Platform"]
     }
 ```
 

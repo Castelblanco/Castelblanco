@@ -23,7 +23,7 @@
                 "MySQL",
             ]
         ],
-        cloud: ["Oracle Cloud", "Google Cloud Platform"]
+        clouds: ["Oracle Cloud", "Google Cloud Platform"]
     }
 ```
 
